@@ -10,5 +10,6 @@ function liInOlSelector() {
 }
 
 function linkSelector() {
-  return $('#box4 a')
+  return $('a', '#box4', '.box5')
+  return $('')
 }
