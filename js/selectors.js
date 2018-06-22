@@ -10,5 +10,5 @@ function liInOlSelector() {
 }
 
 function linkSelector() {
-  
+  return $('#box4 a')
 }
